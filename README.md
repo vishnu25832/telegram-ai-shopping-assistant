@@ -50,7 +50,7 @@ User sends voice message → converted to text → processed → response genera
 
 ## Workflow Screenshot
 
-![Workflow](Screenshots/workflow(2).png)
+![Workflow](Screenshots/Workflow(2).png)
 
 ---
 
