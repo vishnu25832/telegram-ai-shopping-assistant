@@ -50,8 +50,8 @@ User sends voice message → converted to text → processed → response genera
 
 ## Workflow Screenshot
 
-![Workflow](<img width="1265" height="578" alt="Workflow" src="https://github.com/user-attachments/assets/245d9efb-b5f7-40aa-a8f1-09995fcf0c23" />
-)
+![Workflow] <img width="1265" height="578" alt="Workflow(2)" src="https://github.com/user-attachments/assets/44f590a2-6f1e-4428-b085-ace04a0bed65" />
+
 
 ---
 
