@@ -24,8 +24,7 @@ puma shoes under 5000
 
 Output:
 
-![Text Demo](<img width="937" height="621" alt="text-input-demo" src="https://github.com/user-attachments/assets/9f46f350-7fc3-4f9b-8518-83b2ab485784" />
-)
+![Text Demo](Screenshots/text-input-demo.png)
 
 ---
 
@@ -33,8 +32,7 @@ Output:
 
 User sends voice message → converted to text → processed → response generated  
 
-![Voice Demo](<img width="899" height="625" alt="voice-input-demo" src="https://github.com/user-attachments/assets/f1ddf5d4-99fd-4022-9171-5fd403bf65e6" />
-)
+![Voice Demo](Screenshots/voice-input-demo.png)
 
 ---
 
@@ -52,8 +50,7 @@ User sends voice message → converted to text → processed → response genera
 
 ## Workflow Screenshot
 
-![Workflow] (<img width="1265" height="578" alt="Workflow" src="https://github.com/user-attachments/assets/423816cf-b870-479a-8e62-88c7dd23539a" />
-)
+![Workflow](Screenshots/workflow(2).png)
 
 ---
 
